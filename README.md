@@ -6,7 +6,7 @@ LovyanGFX_DentaroUIのサークルスライダから
 LovyanLauntureのツリービュー機能を使えるようにしたesp32用のArduinoスケッチです。
 
 LovyanLauntureをLovyanGFXのみで動かす改造をしているため、
-libraryフォルダに入っているものすべて必要です。（手作業でいれてください。）
+libraryフォルダに入っているものすべて必要です。（zip形式になっているので、解凍して手作業でいれてください。）
 
 今後、さまざまな機能を持ったアプリをこちらのOSに集約していく予定です。
 
